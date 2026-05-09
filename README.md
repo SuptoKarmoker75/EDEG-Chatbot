@@ -1,1 +1,1 @@
-# EDEG-Chatbot
+# EDGE-Chatbot
